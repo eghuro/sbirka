@@ -44,16 +44,14 @@ se rozumí jednostranné hromadné sdělovací prostředky jako televize, rozhla
 
 * d) moderuje kontakty na sdělovací prostředky (§3(3)c).
 
-##### **§2 Grafický způsob komunikace strany**
-
-(1) Mediální odbor stanoví grafický způsob komunikace strany, který bude v souladu se Symboly strany a Pirátskou identitou.
+* e) stanovuje grafický způsob komunikace strany
 
 ## Vztahy k ostatním orgánům
 
-##### **§3 Medializace výstupů ostatních orgánů**
+##### **§2 Medializace výstupů ostatních orgánů**
 
 Mediální odbor přebírá výstupy orgánů strany a po korektuře a editaci je vhodně medializuje.
 
-##### **§4 Provedení**
+##### **§3 Provedení**
 
 Tento předpis provede mediální odbor.
